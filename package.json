@@ -1,0 +1,23 @@
+{
+  "name": "ampere",
+  "version": "1.0.0",
+  "description": "Ampere is a thin library that converts a message into Briefly's websocket format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briefly/Ampere.git"
+  },
+  "keywords": [
+    "websockets",
+    "briefly"
+  ],
+  "author": "Alexander Christie <alex@briefly.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briefly/Ampere/issues"
+  },
+  "homepage": "https://github.com/briefly/Ampere#readme"
+}
